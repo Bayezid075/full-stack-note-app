@@ -1,0 +1,26 @@
+{
+  "name": "full-stack-note-app",
+  "version": "1.0.0",
+  "description": "This is full Stack note app using NodeJS, MongoDB, Express and React ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bayezid075/full-stack-note-app.git"
+  },
+  "keywords": [
+    "full-stack-note",
+    "app",
+    "awesome",
+    "note",
+    "app"
+  ],
+  "author": "Bayezid Hoshen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bayezid075/full-stack-note-app/issues"
+  },
+  "homepage": "https://github.com/Bayezid075/full-stack-note-app#readme"
+}
