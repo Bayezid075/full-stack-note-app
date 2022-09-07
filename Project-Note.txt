@@ -1,0 +1,9 @@
+-- font-name: Roboto 
+-- color-fontside: #FEEFC3 ;
+-- color-Backside: #FFFFFF;
+-- color - SearchBar : #F1F3F4;
+icon resources: {
+    url: https://icons.getbootstrap.com/
+}
+
+
