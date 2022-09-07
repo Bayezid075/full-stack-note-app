@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/Bayezid075/full-stack-note-app/issues"
   },
-  "homepage": "https://github.com/Bayezid075/full-stack-note-app#readme"
+  "homepage": "https://github.com/Bayezid075/full-stack-note-app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
